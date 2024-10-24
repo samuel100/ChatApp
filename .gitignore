@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.olive-cache/default_workflow
+/.vs
+/ChatAppGenAI/bin/x64/Debug/net6.0-windows10.0.19041.0
+/ChatAppGenAI/obj
+/optimized-model
+/optimized-model-maths
